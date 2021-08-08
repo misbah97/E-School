@@ -1,0 +1,176 @@
+
+
+.navbar-brand img{
+	width: 200px;
+}
+#main-nav{
+	background:#F0FFF0;
+	
+}
+.nav-link{
+	text-transform: uppercase;
+	font-weight: 600;
+	padding: 10px 15px;
+	margin: 15px 20px;
+	border-radius: 20px;
+	transition: 0.5s;
+	color:black;
+	text-align: center;
+}
+.nav-link button{
+	text-transform: uppercase;
+	font-weight: 600;
+	padding: 10px 15px;
+	border:none;
+	border-radius: 20px;
+	text-align: center;
+	background-color:#21B573;
+	color:white
+	
+}
+
+#banner{
+	background:#F0FFF0;
+	padding: 30px 0px 50px 0px;
+	margin-bottom: 50px;
+}
+.banner-left{
+	width:400px;
+	
+}
+.banner-left h6{
+	color:#F7966F;
+}
+.banner-left h2{
+	font-weight:700;
+	margin:30px 0px 30px 0px;
+	font-size: 50px;
+}
+.banner-left span{
+	color:#21B573;
+}
+.banner-left p{
+	color:#6C6B6B;
+}
+.banner-btn{
+	width:120px;
+	padding:5px 15px;
+	border:none;
+	background:#21B573;
+	border-radius: 20px;
+	margin-top: 30px;
+}
+.banner-right img{
+	width:500px;
+	padding-right: 30px;
+}
+
+.book{
+	margin-bottom: 50px;
+}
+.card{
+	width:230px;
+	height: 250px;
+	border:none;
+	transition: 0.5s;
+	border-radius: 20px;
+	
+}
+.card:hover{
+	box-shadow: 10px 10px 15px lightgray;
+}
+.card-title{
+	font-size: 25px;
+	color:#413960;
+}
+.card-body p{
+	font-size: 18px;
+	color:#585859;
+}
+.card img{
+	width: 100px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.courses{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.courses h3{
+	font-weight: 800;
+	color:#413960;
+	font-size: 50px;
+}
+.card1 img{
+	width: 200px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+.card1{
+	width:330px;
+	height: 420px;
+	border:none;
+	transition: 0.5s;
+	border-radius: 20px;
+	
+}
+.card1:hover{
+	box-shadow: 10px 10px 15px lightgray;
+}
+.courses-fas{
+	color:gray;
+	padding: 0px 20px;
+}
+.card-title{
+	color:#413960;
+	font-weight: 900;
+}
+.card-text{
+	color:#585859;
+}
+.card1 .banner-btn{
+	color:white;
+}
+
+
+.testimonial{
+	margin-bottom: 100px;
+}
+.testimonial h2{
+	text-align: center;
+	margin-bottom: 100px;
+	font-size: 45px;
+	font-weight: 800;
+	color:#413960;
+}
+.test-left img{
+	width: 120px;
+	
+}
+#footer{
+	background:#282531;
+	color:white;
+}
+
+.foot-left p{
+	color:lightyellow;
+}
+
+
+.foot-right h3{
+	color:lightyellow;
+	text-align: left;
+}
+.foot-right p{
+	line-height: 12px;
+	color:lightyellow;
+	text-align: left;
+	justify-content: center;
+}
+.copyright{
+	text-align: center;
+	background:#282531;
+	padding: 50px 0 20px 0;
+	color:lightyellow;
+}
